@@ -1,0 +1,14 @@
+{
+  "name": "granat-minecraft-bot",
+  "version": "1.0.0",
+  "description": "Granat – Minecraft AI-medskaper",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "bedrock-protocol": "^3.36.0",
+    "@google/generative-ai": "^0.21.0",
+    "dotenv": "^16.0.0"
+  }
+}
